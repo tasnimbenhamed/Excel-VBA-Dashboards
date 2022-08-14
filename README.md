@@ -12,5 +12,5 @@ the source and the steps of the query will automatically apply .
 
 Another thing to note is that the dashboard updates automatically when I update the dataset , hence the 'dynamic' character . The problem that I encountered with this is
 that you CANNOT make a table expand when another table does , without VBA code or power query . Using queries here does not solve the problem because the tables I'm working
-on have formulas that depend on formulas in the other tables . So I added VBA code : Note that this code consists of only adding dates to the tables and the other columns
+on have formulas that depend on formulas in the other tables . So I added VBA code : Note that this code consists of only adding dates to each table and the other columns ( of each table ) 
 will automatically update , without any code required ( because we're working with TABLES ) . 
