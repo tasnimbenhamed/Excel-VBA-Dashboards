@@ -14,3 +14,7 @@ Another thing to note is that the dashboard updates automatically when I update 
 that you <b>CANNOT make a table expand when another table does</b> , without VBA code or power query . Using queries here does not solve the problem because the tables I'm working
 on have formulas that depend on formulas in the other tables . So I added VBA code : Note that this code consists of only adding dates to each table and the other columns ( of each table ) 
 will automatically update , <b>without any code required</b>( because we're working with TABLES ) . 
+
+One final thing is that when you download the xlsm file and open it , you'll get a message of this kind : '
+security risk microsoft has blocked macros from running because the source of this file is untrusted' ( this message pops up whenever you open an external file that contains VBA code )  , and the functionalities of the dashboard will obviously not work . To fix this , close the file --> right click on the file --> select properties --> tick unblocked ( option that shows at the bottom of the box ) , then reopen the file and click enable editing . 
+
