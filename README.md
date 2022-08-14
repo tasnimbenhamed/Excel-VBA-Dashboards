@@ -1,5 +1,5 @@
 # Excel-VBA-Dashboard
-Dynamic and interactive dashboard based on financial data 
+This is a dynamic dashboard that analyzes the performance of the stock market in many countries of the world , since the begining of the year 2022 , comparing it to the year 2021 .  
 
 There's some work-around that's behind the first worksheet ( The dataset is not collected directly like that ) . The process of preparing data and merging it the first time or 
 each time I want to update the dataset is tidious ( I have 11  indices thus 11 separate worksheets ). So I created some <b>queries</b> to automate the process: The only manual job will be downloading the price series of each 
