@@ -19,5 +19,6 @@ One final thing is that when you download the xlsm file and open it , you'll get
 security risk microsoft has blocked macros from running because the source of this file is untrusted' ( this message pops up whenever you open an external file that contains VBA code )  , and the functionalities of the dashboard will obviously not work . To fix this , close the file --> right click on the file --> select properties --> tick unblocked ( option that shows at the bottom of the box ) , then reopen the file and click enable editing . 
 
 Below is just a screenshot of the dashhboard worksheet : 
-![Dashboard screenshot](https://user-images.githubusercontent.com/69468586/185928063-ddff1abd-15fe-495a-9bd3-d69108d3c354.PNG)
+![Dashboard screenshot](https://user-images.githubusercontent.com/69468586/185947784-a4bba21f-8dec-4a0e-95ee-ee8165ad1d52.PNG)
+
 
