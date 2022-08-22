@@ -17,6 +17,7 @@ will automatically update , <b>without any code required</b>( because we're work
 
 One final thing is that when you download the xlsm file and open it , you'll get a message of this kind : '
 security risk microsoft has blocked macros from running because the source of this file is untrusted' ( this message pops up whenever you open an external file that contains VBA code )  , and the functionalities of the dashboard will obviously not work . To fix this , close the file --> right click on the file --> select properties --> tick unblocked ( option that shows at the bottom of the box ) , then reopen the file and click enable editing . 
+
 Below is just a screenshot of the dashhboard worksheet : 
 ![Dashboard screenshot](https://user-images.githubusercontent.com/69468586/185928063-ddff1abd-15fe-495a-9bd3-d69108d3c354.PNG)
 
